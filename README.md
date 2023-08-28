@@ -1,6 +1,6 @@
 # Shortcut Script to Install Nomad on Virtual Machines
 
-The script, `install-nomad.sh`, is derrived from the [official documentation](https://developer.hashicorp.com/nomad/docs/install) setup process. 
+The script, `install-nomad.sh`, is derived from the [official documentation](https://developer.hashicorp.com/nomad/docs/install) setup process. 
 
 Here are the minified steps to install Nomad on a virtual machine:
 
