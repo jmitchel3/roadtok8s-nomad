@@ -1,4 +1,4 @@
-# Road to Kubernetes - Install Nomad
+# Shortcut Script to Install Nomad on Virtual Machines
 
 The script, `install-nomad.sh`, is derrived from the [official documentation](https://developer.hashicorp.com/nomad/docs/install). To use it, just run:
 
